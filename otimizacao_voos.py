@@ -2,6 +2,7 @@ import time
 import random
 import math
 
+## Pessoas e locais de origem
 pessoas = [('Amanda', 'CWB'),
           ('Pedro', 'GIG'),
           ('Marcos', 'POA'),
@@ -9,6 +10,7 @@ pessoas = [('Amanda', 'CWB'),
           ('Jessica', 'CNF'),
           ('Paulo', 'GYN')]
 
+# Local de destino
 destino = 'GRU'
 
 ## Montar o dicionário de todas as combinações possíveis de voos (chaves)
